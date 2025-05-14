@@ -1,2 +1,2 @@
-# computational_statisitcs
-Computation statsitics lexture at University of Heidelberg 2025
+# Computational Statistics
+Computation statsitics lecture at University of Heidelberg 2025
